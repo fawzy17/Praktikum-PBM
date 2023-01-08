@@ -1,0 +1,101 @@
+{
+    "tastee": [{
+            "id": 1,
+            "title": "Steak Sirloin",
+            "description": "Merupakan daging sapi bagian punggung luar, dekat paha belakang sapi. Karena terletak di bagian yang aktif,  maka sirloin memiliki tekstur yang lebih keras dan sedikit alot saat dimakan. Namun, sirloin memiliki ukuran yang besar dan memiliki lapisan lemak yang membuatnya terasa gurih dan juicy.",
+            "price": "149000",
+            "image": "assets/sirloin.png"
+        },
+        {
+            "id": 1,
+            "title": "Steak Tenderloin",
+            "description": "Tenderloin merupakan bagian pinggang sapi yang paling lembut. Yang membuatnya mudah dikenali adalah karena daging ini tidak memiliki serat. Tenderloin memiliki tekstur lembut namun tidak terlalu kaya akan rasa, karena kandungan lemaknya yang rendah. Karena itu pula, bagian ini cocok untuk pecinta steak yang sedang menjalani diet.",
+            "price": "169000",
+            "image": "assets/tenderloin.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Steak T-Bone",
+            "description": "T-bone merupakan daging yang diambil dari punggung bagian dalam sapi, sampai bawah hingga memotong tulang punggung. Bagian ini disebut t-bone karena terdapat tulang dengan bentuk huruf T yang dikelilingi daging pada kedua sisi. Bagian ini memiliki tekstur yang tidak selembut tenderloin, namun tetap memiliki rasa gurih.",
+            "price": "199000",
+            "image": "assets/tbone.png"
+        },
+        {
+            "id": 1,
+            "title": "Steak Rib-eye",
+            "description": "Rib-eye, atau yang biasa disebut dengan fillet scotch, merupakan bagian daging di sekitar tulang iga atau tulang rusuk sapi. Dalam potongan daging ini, terdapat banyak lemak sehingga daging lebih gurih, lembut, dan juicy. Karena kandungan lemak yang besar, maka tekstur daging ini lebih juicy jika dibandingkan dengan bagian lain.",
+            "price": "210000",
+            "image": "assets/ribeye.png"
+        },
+        {
+            "id": 1,
+            "title": "Steak Flank",
+            "description": "Flank merupakan bagian otot perut sapi. Daging bagian ini berbentuk panjang dan datar. Namun, bagian ini kurang lembut, sehingga jika Anda ingin memesan daging bagian ini, lebih baik dengan tingkat kematangan yang rendah seperti medium rare.",
+            "price": "200000",
+            "image": "assets/flank.png"
+        },
+        {
+            "id": 1,
+            "title": "Steak Tomahawk",
+            "description": "Sama seperti rib-eye, tomahawk diambil dari rusuk sapi. Perbedaannya terletak di penyajiannya, dimana tomahawk disajikan dengan potongan tulang rusuk yang besar yang masih menyatu dengan dagingnya. Dari segi rasa, tomahawk memiliki cita rasa dan kelembutan yang setara dengan rib-eye.",
+            "price": "250000",
+            "image": "assets/tomahawk.png"
+        },
+        {
+            "id": 2,
+            "title": "Ice Tea",
+            "description": "Teh yang diberi gula saat diseduh dengan air panas, lalu diencerkan dengan air atau es batu.",
+            "price": "9000",
+            "image": "assets/icetea.png"
+        },
+        {
+            "id": 2,
+            "title": "Lemon Tea",
+            "description": "Es lemon tea merupakan minuman yang terbuat dari teh yang dicampur dengan jeruk lemon.",
+            "price": "13000",
+            "image": "assets/flank.png"
+        },
+        {
+            "id": 2,
+            "title": "Ice Coffee",
+            "description": "Es kopi adalah minuman kopi yang disajikan dingin atau ditambah es batu.",
+            "price": "20000",
+            "image": "assets/icecoffee.png"
+        },
+        {
+            "id": 2,
+            "title": "Mineral",
+            "description": "Air mineral merupakan air yang telah dilengkapi dengan kandungan mineral dan senyawa alami lain di dalamnya.",
+            "price": "5000",
+            "image": "assets/mineral.png"
+        },
+        {
+            "id": 2,
+            "title": "Milkshake",
+            "description": "Minuman dingin dari campuran susu, es krim, dan sirop berperasa yang dikocok hingga berbusa.",
+            "price": "15000",
+            "image": "assets/milkshake.png"
+        },
+        {
+            "id": 2,
+            "title": "Wine",
+            "description": "Wine merupakan asil fermentasi dari buah-buahan, seperti anggur merah, yang telah dihancurkan. Kadar alkohol dalam wine umumnya berkisar antara 12–15%.",
+            "price": "50000",
+            "image": "assets/wine.png"
+        },
+        {
+            "id": 3,
+            "title": "Ice Cream",
+            "description": "Es krim merupakan sebuah makanan beku yang dibuat dari produk susu seperti krim, lalu dicampur dengan perasa dan pemanis buatan ataupun alami.",
+            "price": "20000",
+            "image": "assets/icecream.png"
+        },
+        {
+            "id": 3,
+            "title": "French Fries",
+            "description": "Kentang goreng yang dipotong panjang-panjang dan digoreng dalam keadaan terendam di dalam minyak goreng panas",
+            "price": "20000",
+            "image": "assets/frenchfries.png"
+        }
+    ]
+}
